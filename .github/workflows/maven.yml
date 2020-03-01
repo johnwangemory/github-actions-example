@@ -1,4 +1,4 @@
-name: Java CI
+name: GitHub Action workflow for github-actions-example
 
 on: [push]
 
